@@ -2,10 +2,9 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Cut The Cake
 partners:
 - "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
 - description: Performing collaborative research and providing services to support
@@ -25,6 +24,7 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+show_staff: true
 menu:
   navigation:
     identifier: _index
