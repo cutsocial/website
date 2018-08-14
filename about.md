@@ -1,18 +1,23 @@
 ---
-layout: page
 title: About
-permalink: /about/
+date: 2017-11-01 03:00:00 +0000
+banner_image: "/uploads/2018/02/17/college-building.jpg"
+heading: About Belkirk
+sub_heading: Ora et Labora
+layout: landing-page
+textline: A multidisciplinary centre of experts who are essential to patient-oriented
+  research.
+publish_date: 2017-12-01 04:00:00 +0000
+show_staff: true
+menu:
+  navigation:
+    identifier: _about
+    weight: 2
+  footer:
+    identifier: _about
+    weight: 3
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
