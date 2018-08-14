@@ -1,7 +1,7 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
-baseurl:
+title: Cut The Cake
+short_title: Cut The Cake
+description: "Cut The Cake: Design and Publish Social Experiments"
+baseurl: blog.cut.social
 permalink: "/:path/"
 defaults:
   - scope:
