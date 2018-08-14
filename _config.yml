@@ -1,7 +1,8 @@
 title: Cut The Cake
 short_title: Cut The Cake
 description: "Cut The Cake: Design and Publish Social Experiments"
-baseurl: blog.cut.social
+baseurl: ""
+url: ""
 permalink: "/:path/"
 defaults:
   - scope:
