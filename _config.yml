@@ -3,7 +3,6 @@ short_title: Cut The Cake
 description: "Cut The Cake: Design and Publish Social Experiments"
 baseurl: ""
 url: ""
-permalink: "/:path/"
 defaults:
   - scope:
       path: ""
