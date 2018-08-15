@@ -21,7 +21,7 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Demos
   href: "/about"
 show_news: true
 show_staff: true
