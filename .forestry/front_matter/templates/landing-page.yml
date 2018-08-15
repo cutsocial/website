@@ -10,14 +10,6 @@ fields:
   default: ''
   config:
     required: true
-- type: text
-  label: Hero Heading
-  name: heading
-  default: Belkirk College
-- type: text
-  name: sub_heading
-  label: Hero Sub heading
-  default: Engineering and Health Sciences
 - type: file
   name: banner_image
   label: Hero Image
