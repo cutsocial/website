@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/08/15/IMG_20180613_125245.jpg"
 layout: landing-page
-heading: Cut The Cake
+heading: Cut the Cake
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/nysed.png"
