@@ -15,7 +15,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Experimental Social Science
+sub_heading: Applied Behavioral Science Services
 textline: |
   Belkirk College of Engineering
 
