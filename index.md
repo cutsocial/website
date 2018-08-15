@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/08/15/IMG_20180613_125245.jpg"
 layout: landing-page
 heading: Cut The Cake
 partners:
