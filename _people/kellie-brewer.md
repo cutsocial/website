@@ -6,12 +6,12 @@ role:
 - staff
 sub_heading: Co-founder
 thumbnail: "/uploads/2018/09/13/Photo on 4-11-18 at 1.28 PM #3.jpg"
-email: ''
-linkedin: ''
+email: mrad [at] princeton.edu
+linkedin: https://www.linkedin.com/in/mostafa-salari-rad-49074a20/
 layout: person
 
 ---
-I am a social psychologist,  background i 
+I am a cognitive scientist. I study social and cognitive underpinnings of 
 
 Kellie received her Ph.D in Biomedical Engineering from Duke University in 2007. Since graduating, Kelly has worked with Randstad Engineering as Head of Research and Development in San Jose, California.
 
