@@ -1,5 +1,5 @@
-title: Cut The Cake
-short_title: Cut The Cake
+title: Cut the Cake
+short_title: Cut the Cake
 description: "Cut The Cake: Design and Publish Social Experiments"
 baseurl: ""
 url: ""
@@ -27,7 +27,7 @@ collections:
 jekyll-archives:
   enabled: all
   layout: "archive"
-gems:
+plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives

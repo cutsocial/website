@@ -1,0 +1,31 @@
+.main-nav.pure-menu {
+  display: inline;
+}
+
+.main-nav .nav-menu-button {
+  display: none;
+  letter-spacing: normal;
+}
+
+.logo.nav-menu {
+  width: 154px !important;
+}
+
+.main-nav .nav-menu, .main-nav .nav-menu ul {
+  float: right;
+}
+
+/* mobile */
+@media (max-width: 40em) {
+  .main-nav .nav-menu-button {
+    display: inline;
+    top: 0px;
+    position: absolute;
+    right: 0px;
+    left: auto;
+  }
+  .main-nav .nav-menu .pure-menu-list {
+    display: none;
+  }
+
+}
