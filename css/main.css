@@ -1,7 +1,13 @@
+@import 'nav.css';
+
 footer.site-footer  {
   background-color: gray;
 }
 
 footer.site-footer h3 {
   text-align: center;
+}
+
+.clearfix {
+  overflow: auto;
 }

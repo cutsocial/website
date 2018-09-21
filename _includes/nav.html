@@ -5,24 +5,25 @@
 {% assign url = page.url | remove:'index.html' %}
 
 <header class="site-header">
-  <div class="container">
-      <h1 class="logo">
-        
-      </h1>
+    <a href="pure-u-1-6 logo nav-menu">
+        <img src="{{ "/img/logo.png" | absolute_url }}" />
+      </a>
 
-      <nav class="main-nav pure-menu pure-menu-horizontal">
-        <a href="{{ "/" | absolute_url }}" class="logo pure-menu-heading pure-menu-link"></a>{{ site.name }}</a>
-        <ul class="pure-menu-list">
-            {% for link in site.menus.navigation %}
-            <li class="pure-menu-item {% if url == link.url %}current{% endif %}">
-              <a 
-                href="{{ link.url | absolute_url }}"
-                {% if link.target %} target="_blank" {% endif %}
-                class="pure-menu-link">{{ link.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-      </nav>
+  <nav class="main-nav pure-menu pure-menu-horizontal pure-g">
+    <a class="nav-menu-button" href="#">Menu</a>
+    <div class="pure-u-2-3 right nav-menu">
+      <ul class="pure-menu-list">
+        {% for link in site.menus.navigation %}
+        <li class="pure-menu-item {% if url == link.url %}current{% endif %}">
+          <a 
+            href="{{ link.url | absolute_url }}"
+            {% if link.target %} target="_blank" {% endif %}
+            class="pure-menu-link">{{ link.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </nav>
     
-  </div>
 </header>

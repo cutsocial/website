@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2019-09-21 06:40:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+#banner_image: "/uploads/2018/02/17/college-building.jpg"
 heading: About
 sub_heading: Online Social Experiments
 layout: landing-page

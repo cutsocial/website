@@ -1,5 +1,5 @@
 ---
-title: Mostafa Salari rad
+title: Mostafa Salari Rad
 date: 2018-09-20 7:47:31 +0000
 role:
 - co-founder
