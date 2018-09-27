@@ -38,7 +38,7 @@ footer.site-footer h3 {
   margin-block-start: 5px;
 }
 
-img.about.us {
+img.about-us {
   max-height: 50vh;
   width: auto;
   margin-left: auto;
@@ -48,7 +48,7 @@ img.about.us {
 }
 
 .about-us-image-container {
-  width: 100vw;
+  width: 99%;
   align-content: center;
   text-align: center;
 }
