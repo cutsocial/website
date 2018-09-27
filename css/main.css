@@ -1,5 +1,19 @@
 @import 'nav.css';
 
+body,
+.pure-g [class*=pure-u],
+.pure-g {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.site-header {
+  margin: 20px;
+}
+
+.container {
+  padding: 20px;
+}
+
 footer.site-footer  {
   background-color: gray;
 }
@@ -10,4 +24,12 @@ footer.site-footer h3 {
 
 .clearfix {
   overflow: auto;
+}
+
+.person-title {
+  margin-block-end: 5px;
+}
+
+.person-subtitle {
+  margin-block-start: 5px;
 }
