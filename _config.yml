@@ -22,12 +22,21 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
+navs:
+  - title: "About"
+    url: "https://blog.cut.social/about"
+  - title: "Blog"
+    url: "https://blog.cut.social"
+  - title: "Case Studies"
+    url: "https://beta.cut.social/designer/dashboard"
+  - title: "Contact"
+    url: "https://cut.social/contact"
+
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
   enabled: all
   layout: "archive"
 plugins:
-  - jekyll-menus
   - jekyll-feed
   - jekyll-archives
