@@ -7,15 +7,7 @@ sub_heading: Online Social Experiments
 layout: about
 textline: ''
 publish_date: 2018-09-27 08:37:54 +0000
-show_staff: true
-menu:
-  footer:
-    identifier: _about
-    weight: 3
-  navigation:
-    identifier: _about
-    weight: 4
-
+show_footer: false
 ---
 
 
@@ -36,5 +28,4 @@ Cheers
 
 S. & M.
 
-<hr />
-AKS
+<hr class="divider" />
