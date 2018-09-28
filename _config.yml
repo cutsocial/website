@@ -23,10 +23,12 @@ collections:
     output: true
     permalink: "/projects/:path/"
 navs:
+  - title: "Home"
+    url: "/"
   - title: "About"
     url: "/about"
   - title: "Blog"
-    url: "https://blog.cut.social"
+    url: "/blog"
   - title: "Case Studies"
     url: "https://beta.cut.social/designer/dashboard"
   - title: "Contact"
