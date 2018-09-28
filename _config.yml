@@ -24,7 +24,7 @@ collections:
     permalink: "/projects/:path/"
 navs:
   - title: "About"
-    url: "https://blog.cut.social/about"
+    url: "/about"
   - title: "Blog"
     url: "https://blog.cut.social"
   - title: "Case Studies"

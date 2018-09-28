@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-  padding: 20px;
+  padding: 10px;
 }
 
 footer.site-footer  {
@@ -36,10 +36,16 @@ footer.site-footer h3 {
 
 .person-subtitle {
   margin-block-start: 5px;
+  color: #888;
+}
+
+.person-container {
+  padding: 10px;
 }
 
 img.about-us {
   max-height: 50vh;
+  max-width: 100%;
   width: auto;
   margin-left: auto;
   margin-right: auto;
@@ -48,7 +54,7 @@ img.about-us {
 }
 
 .about-us-image-container {
-  width: 99%;
+  width: 100%;
   align-content: center;
   text-align: center;
 }
@@ -58,7 +64,7 @@ hr.divider {
   overflow: visible; /* For IE */
   padding: 0;
   border: none;
-  border-top: medium solid #333;
+  border-top: 1px solid #333;
   color: #333;
   text-align: center;
 }
@@ -70,4 +76,16 @@ hr.divider:after {
   font-size: 1.5em;
   padding: 0 0.25em;
   background: white;
+}
+
+
+/* mobile */
+@media (max-width: 40em) {
+  body {
+    padding-bottom: 0px;
+  }
+
+  img.about-us {
+    border-radius: 0px;
+  }
 }
