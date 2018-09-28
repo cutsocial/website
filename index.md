@@ -2,10 +2,8 @@
 title: Applied Behavioral Science Service
 layout: landing-page
 heading: Cut the Cake
-partners: []
-sub_heading: Applied Behavioral Science Service
 textline: what?
-show_footer: false
+show_footer: true
 ---
 
 {% include services.html %}
