@@ -23,7 +23,7 @@ publish_date: 2018-09-01 03:00:00 +0000
 							</div>
 							<div class="card-body">
 								<h3><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></h3>
-								<p>{{ project.summary | truncatewords: 30 }}</p>
+								<p>{{ project.summary | truncatewords: 30 | markdownify}}</p>
 							</div>
 						</div>
 					</div>

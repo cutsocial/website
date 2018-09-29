@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% comment %}
+	Show a single project
+{% endcomment %}
+
+<div class="container pure-g">
+  <div class="pure-u-1">
+      <div class="content content-narrow">
+        <div class="list-layout">
+          <h2><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></h2>
+          <date>{{ page.date | date_to_string }}</date>
+          <div>{{ page.content | markdownify }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

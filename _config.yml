@@ -10,6 +10,11 @@ defaults:
       layout: page
   - scope:
       path: ""
+      type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
       type: posts
     values:
       layout: post
@@ -18,8 +23,7 @@ collections:
     output: true
     permalink: "/projects/:path/"
   people:
-    output: true
-    permalink: "/about/:path/"
+    output: false
   posts:
     output: true
 navs:
