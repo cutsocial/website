@@ -1,10 +1,6 @@
 ---
 title: 'Ramadan'
-tags:
-- ramadan
-- scarcity
 date: 2018-09-29 16:35:50 +0000
-sub_heading: 'How scarcity shapes our mind.'
 summary: 'THis is a summary for ramadan2018 project.'
 ---
 
