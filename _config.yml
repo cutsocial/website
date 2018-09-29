@@ -14,14 +14,14 @@ defaults:
     values:
       layout: post
 collections:
+  projects:
+    output: true
+    permalink: "/projects/:path/"
   people:
     output: true
     permalink: "/about/:path/"
   posts:
     output: true
-  projects:
-    output: true
-    permalink: "/projects/:path/"
 navs:
   - title: "Home"
     url: "/"
@@ -30,7 +30,7 @@ navs:
   - title: "Blog"
     url: "/blog"
   - title: "Case Studies"
-    url: "https://beta.cut.social/designer/dashboard"
+    url: "/projects"
   - title: "Contact"
     url: "https://cut.social/contact"
 
