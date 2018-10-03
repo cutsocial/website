@@ -6,8 +6,6 @@ textline: what?
 show_footer: true
 ---
 
-{% include services.html %}
-
 {% include blog_summary.html %}
 
 {% include partners.html %}
