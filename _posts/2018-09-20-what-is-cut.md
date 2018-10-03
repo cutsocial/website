@@ -1,10 +1,17 @@
 ---
-title: What is Cut?
-layout: Introduction to Cut
-date: 2018-09-30 18:54:37 +0000
-
+title: "What is Cut?"
+date: 2018-09-20 09:09:13 +0000
+summary: ""
+author: salar
+layout: post
+project: false
+tags:
+  - Case Study
+  - Ramadan
+  - Scarcity
+  - Cut
+  - Project
 ---
-**About** 
 
 We created Cut to make better use of the web-based technologies and people’s growing online presence in our research. We wanted to deal with three issues. 
 
@@ -16,6 +23,5 @@ Finally, when teaching psychology to undergraduates, we noticed that our methods
 
 We’ll talk about each of these in detail in other posts. For now, we are happy to have Cut openly available for test runs. We are also interested in collaborations. If you have cool tasks or research instruments that you think can be developed on Cut let us know. We’d love to hear for ya’ll.
 
-Cheers
-
-S&M
+Cheers,<br />
+Salar & Morteza

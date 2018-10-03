@@ -1,8 +1,16 @@
 ---
-title: How fasting during Ramadan affects cognition and risk
-layout: Ramadan study
-date: 2018-09-30 18:51:53 +0000
-
+title: "Case Study: How Fasting During Ramadan Affects Cognition and Risk"
+date: 2018-09-30 09:09:13 +0000
+summary: "In 2018 Ramadan was in summer, starting mid June and ending mid July (Islamic calendar is lunar). Here is how we conducted an online experiment about scarcity using Cut."
+author: salar
+layout: post
+project: true
+tags:
+  - Case Study
+  - Ramadan
+  - Scarcity
+  - Cut
+  - Project
 ---
 In 2018 Ramadan was in summer, starting mid June and ending mid July (Islamic calendar is lunar). I was in the middle of moving back to Brooklyn from Princeton, and everything that could get complicated was getting complicated. We got the IRB approval and launched the study on the freshly developed version of Cut (we call it version 7 - I think its somewhere around there). 
 
@@ -13,3 +21,7 @@ We also reasoned that because fasting during Ramadan is religiously motivated, v
 Anyway, you can read about the research in the  upcoming paper. We used Cut to develop the research instrument. It had, (a) two Go-No-Go tasks measuring cognitive control, (b) a set of Raven’s matrices to test IQ scores, (c) a 25-round BART task measuring risk behavior, and (d) a temporal discounting task to measure present-orientedness. Long these tasks we had a bunch of multiple choice questions and scales. A demo of the task is available [here](https://beta.cut.social/hwega2). Cognitive control and performance tasks were purely included to test the scarcity prediction, whereas with BART we intended to replicate prior finding that fasting people are more risk averse ([here](https://psyarxiv.com/kj5ac/)). We goofed up the measure of temporal discounting and didn’t record all the necessary data. 
 
 To give you a sneak peak of our findings, I’ll just say that so far our results suggest that fasting has positive effect of cognitive control... we’ll keep you posted.
+
+
+Cheers,<br />
+Salar

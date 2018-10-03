@@ -23,9 +23,7 @@ A second issues was being able to run these instruments on mobile phones. People
 Finally, when teaching psychology to undergraduates, we noticed that our methods and tools can be discouragingly old for young students. It’s 2018 and almost every freshman has lived their entire life with access to  internet and smartphones. They learn better by seeing and doing things in the medium they are familiar with, rather than reading or having someone explain things to them. Furthermore, having to learn about multiple platforms sometimes prevents students from carrying out actual research projects. As a remedy, we further developed Cut to serve as a one-stop service where anyone can design simple studies, recruit participants, collect data, and see their results. With this feature, students from different backgrounds were able to to conduct their own studies, which gave them a chance to think about research ideas rather than getting stuck in their first steps.
 We’ll talk about each of these in detail in other posts. For now, we are happy to have Cut openly available for test runs. We are also interested in collaborations. If you have cool tasks or research instruments that you think can be developed on Cut let us know. We’d love to hear for ya’ll.
 
-<br />
-Cheers
-
+Cheers<br />
 S. & M.
 
 <hr class="divider" />
