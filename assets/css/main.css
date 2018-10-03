@@ -95,6 +95,19 @@ hr.divider:after {
   margin-block-end: 0.1em;
 }
 
+.blog-summary.container {
+  text-align: left;
+  max-width: 90vw;
+}
+
+.blog-summary-container .more-button {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
 .blog-post-date {
   color: gray;
   font-size: 1em;
