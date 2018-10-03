@@ -12,7 +12,7 @@ fields:
   label: Project
   name: project
   default: false
-- type: person
+- type: boolean
   label: Author
   name: author
   default: ''
