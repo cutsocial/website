@@ -3,7 +3,7 @@ title: About
 date: 2018-09-25 08:37:54 +0000
 #banner_image: "/uploads/2018/02/17/college-building.jpg"
 heading: About
-sub_heading: Online Social Experiments
+summary: Online Social Experiments
 layout: about
 textline: ''
 publish_date: 2018-09-27 08:37:54 +0000

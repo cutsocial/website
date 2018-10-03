@@ -5,12 +5,7 @@ is_partial: false
 fields:
 - type: text
   name: title
-  label: Name
-- name: sub_heading
-  label: Sub Heading
-  type: text
-  hidden: false
-  default: ''
+  label: Title
 - type: file
   label: Thumbnail
   name: thumbnail
@@ -28,6 +23,16 @@ fields:
   default: ''
 - name: linkedin
   label: Linkedin
+  type: text
+  hidden: false
+  default: ''
+- name: github
+  label: Github
+  type: text
+  hidden: false
+  default: ''
+- name: twitter
+  label: Twitter
   type: text
   hidden: false
   default: ''

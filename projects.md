@@ -16,17 +16,19 @@ publish_date: 2018-09-01 03:00:00 +0000
 		<div class="content">
 			<div class="grid-layout">
 				<div class="container pure-g">
-					{% for project in site.projects %}
+					{% for post in site.posts %}
+					{% if post.project %}
 					<div class="pure-u-1 pure-u-md-1-3">
 						<div class="card">
 							<div class="card-header">
 							</div>
 							<div class="card-body">
-								<h3><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></h3>
-								<p>{{ project.summary | truncatewords: 30 | markdownify}}</p>
+								<h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+								<p>{{ post.summary | truncatewords: 40 | markdownify}}</p>
 							</div>
 						</div>
 					</div>
+					{% endif %}
 					{% endfor %}
 				</div>
 			</div>
