@@ -28,7 +28,7 @@ collections:
     output: true
 navs:
   - title: "Home"
-    url: "/"
+    url: "https://cut.social/"
   - title: "About"
     url: "/about"
   - title: "Blog"
