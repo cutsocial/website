@@ -1,8 +1,7 @@
 ---
-title: Posts
+title: Blog
 layout: blog
-sub_heading: ''
-description: Articles by Belkirk College
-publish_date: 2017-11-01 03:00:00 +0000
-
+summary: ''
+description: Articles by Cut the Cake Staff
+publish_date: 2018-09-01 03:00:00 +0000
 ---

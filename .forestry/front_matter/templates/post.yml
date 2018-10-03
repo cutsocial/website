@@ -8,9 +8,17 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: boolean
+  label: Project
+  name: project
+  default: false
+- type: person
+  label: Author
+  name: author
+  default: ''
 - type: text
-  label: Sub Heading
-  name: sub_heading
+  label: Summary
+  name: summary
   default: ''
 - name: date
   label: Publish Date
