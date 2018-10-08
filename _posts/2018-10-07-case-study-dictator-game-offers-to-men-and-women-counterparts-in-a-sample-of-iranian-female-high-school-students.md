@@ -1,6 +1,5 @@
 ---
-title: 'Case Study: Dictator Game offers to men and women counterparts in a sample
-  of Iranian female high-school students'
+title: 'Case Study: Dictator Game offers to men and women counterparts in a sample of Iranian female high-school students'
 layout: post
 author:
 project: true
@@ -22,9 +21,9 @@ The results are interesting on their own but more interesting than that, was wor
 
 ![Schematic](/uploads/2018/10/07/farzanegan1.jpg)
 
-When it came to implementation, we pooled out resources, shared ideas, and together we developed the experiment. They collected the data and presented it as poster at BrainBees competitions and won a prize.
+When it came to implementation, we pooled out resources, shared ideas, and together we developed the experiment. They collected the data and presented it as poster at a local Brain Bee competition and won a prize.
 
-Indeed, a win-win... :)
+Indeed, a win-win-win... :)
 
 ![Farzanegan Kids](/uploads/2018/10/07/farzanegan2.jpg)
 
