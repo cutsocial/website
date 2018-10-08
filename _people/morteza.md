@@ -6,7 +6,7 @@ email: 'ansarinia@me.com'
 linkedin: ''
 ---
 
-I’m currently a graduate student in Cognitive Neuroscience at xCIT Lab of University of Luxembourg and Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. I've worked for several IT research institutes and startups as research/senior software engineer, but I’m currently focusing on behavioral neuroscience.
+I’m currently a graduate student in Cognitive Neuroscience at xCIT Lab of University of Luxembourg and Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. I study neural basis of how we learn to learn, and how it can be improved. I've worked for several IT research institutes and startups as research/senior software engineer, but I’m currently focusing on behavioral neuroscience.
 
 I have been a <a href="http://github.com/morteza" target="_blank">computer scientist</a> most of my adult life but not the weird and recluse kind. I like surreal arts, people, Dostoevsky, and Kurt Vonnegut.
 
