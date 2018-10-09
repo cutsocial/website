@@ -17,7 +17,7 @@ Iran's [NODET](https://en.wikipedia.org/wiki/National_Organization_for_Developme
 
 They created 6 profiles, 3 males and 3 females. Each profile came with information about the person's name, age, and a hobby. The task is in Farsi. You can see the task [here](https://beta.cut.social/newui/#dictator). Again, best to check it out is on a smart phone.
 
-The results are interesting on their own but more interesting than that, was working we these amazing, self-driven, creative, and generous people. This is an example of how *Cut* can be used as an educational tool. These developed the entire concept of the study on their own, with minimal guideline from us. You can see their schematic design below.
+The results are interesting on their own but more interesting than that, was working we these amazing, self-driven, creative, and generous people. This is an example of how *Cut* can be used as an educational tool. They developed the entire concept of the study on their own, with minimal guideline from us. You can see their schematic design below.
 
 ![Schematic](/uploads/2018/10/07/farzanegan1.jpg)
 
