@@ -4,12 +4,12 @@
 
 {% assign url = page.url | remove:'index.html' %}
 
-<header class="site-header">
+<header class="site-header" id="mainNavHeader">
     <a href="/">
         <img src="{{ "/assets/img/logo.png" | absolute_url }}" />
       </a>
 
-  <nav class="main-nav pure-menu pure-menu-horizontal pure-g">
+  <nav class="main-nav pure-menu pure-menu-horizontal pure-g menu-can-transform">
     <a class="custom-toggle nav-menu-button" href="#" id="navToggle"><s class="bar"></s><s class="bar"></s></a>
     <div class="pure-u-2-3 right nav-menu">
       <ul class="pure-menu-list">

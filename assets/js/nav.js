@@ -4,13 +4,14 @@
   
   function toggleHorizontal() {
       [].forEach.call(
-          document.getElementById('navToggle').querySelectorAll('.custom-can-transform'),
+          document.getElementById('mainNavHeader').querySelectorAll('.menu-can-transform'),
           function(el){
               el.classList.toggle('pure-menu-horizontal');
           }
       );
   };
-  
+
+
   function toggleMenu() {
       // set timeout so that the panel has a chance to roll up
       // before the menu switches states
