@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Case Studies
 layout: default
-description: Projects by Cut The Cake
+description: Cut the Cake Case Studies and Example Projects
 publish_date: 2018-09-01 03:00:00 +0000
 
 ---

@@ -1,10 +1,7 @@
 <footer class="site-footer">
-    <div class="footer-col pure-u-1-1 pure-u-md-1-4">
-      <img src="{{ "/assets/img/logo-white.png" | absolute_url }}" alt="" class="footer-logo">
-    </div>
 	<div class="container pure-g">
     <div class="pure-u-1-1 pure-u-md-1-2">
-      <h3>Links</h3>
+      <h2>Links</h2>
       <ul>
       {% for item in site.navs %}
         <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
@@ -12,20 +9,19 @@
       </ul>
     </div>
         <div class="pure-u-1-1 pure-u-md-1-2">
-            <h3>Case Studies</h3>
+            <h2><a href="/projects">Case Studies</a></h2>
             <ul>
-            {% for project in site.projects limit:5 %}
-                <li><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></li>
-            {% endfor %}
-            {% if site.projects | size > 5 %}
-                <li><a href="{{ "/projects/" | absolute_url }}">See all projects</a></li>
+            {% for post in site.posts %}
+			{% if post.project %}
+                <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
             {% endif %}
+            {% endfor %}
             </ul>
         </div>
     </div>
 
-    <div class="footer-col">
-            &copy; {{ 'now' | date: "%Y" }} {{ site.title }} - All Rights Reserved<br>
+    <div class="copyright-notice">
+            &copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All Rights Reserved.<br />
     </div>
     
 </footer>
