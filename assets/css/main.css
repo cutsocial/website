@@ -19,7 +19,7 @@ body {
 }
 
 footer.site-footer  {
-  background-color: gray;
+  background-color: lightgray;
 }
 
 .clearfix {
@@ -47,6 +47,7 @@ img.about-us {
   margin-right: auto;
   display: block;
   border-radius: 5px;
+  margin-bottom: 20px;
 }
 
 .about-us-image-container {
@@ -83,6 +84,7 @@ hr.divider:after {
 
   img.about-us {
     border-radius: 0px;
+    margin-bottom: 0px;
   }
 }
 
@@ -124,7 +126,8 @@ hr.divider:after {
   padding-inline-start: 0.5em;
 }
 
-.footer-logo {
-  max-width: 30vw;
-  height: auto;
+.copyright-notice {
+  padding: 10px;
+  text-align: center;
+
 }

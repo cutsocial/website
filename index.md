@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Home
 layout: landing-page
 heading: Cut the Cake
 textline: what?
