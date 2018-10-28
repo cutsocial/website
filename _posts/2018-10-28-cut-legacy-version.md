@@ -1,3 +1,7 @@
+---
+layout: ''
+
+---
 We started developing Cut with the goal of running economic games on
 desktop browsers. We were looking to match human subjects with each
 other and have them interact in real time. In addition, we had a feature
