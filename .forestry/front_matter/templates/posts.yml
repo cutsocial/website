@@ -9,6 +9,7 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/moving-on-cut-social-removed-legacy-version.md
 - _posts/cut-social-removed-legacy-version-copy.md
 - _posts/2018-10-28-cut-social-removed-legacy-version.md
 - _posts/2018-09-30-how-fasting-during-ramadan-affects-cognition-and-risk.md
