@@ -14,11 +14,13 @@ Another goal was to make Cut user-friendly, not just for subjects but also for e
 
 We were offered integration with [Amazon Mechanical Turk](https://www.mturk.com/). Once the experiment was designed and ready to launch, it could be launched as a human intelligence task (HIT) on MTurk, provided the user had money in their Amazon account.
 
-![](/uploads/2018/10/28/Screen Shot 2018-10-28 at 2.14.56 PM.png)[This](https://vimeo.com/126399049) video shows how this - now - [legacy](https://legacy.cut.social/) system worked:
-
-![](/uploads/2018/10/28/Screen Shot 2018-10-28 at 2.16.20 PM.png "https://vimeo.com/126399049")
+![](/uploads/2018/10/28/Screen Shot 2018-10-28 at 2.14.56 PM.png)
 
 Our subsequent goal was to offer descriptive previews of collected data and give some elementary statistics. This would complete the loop, making Cut on one-stop solution to design studies with economic games, collect data, and see results. These features significantly simplified designing and running studies, and allowed us to use Cut as a teaching tool, and resources for students to develop studies.
+
+[This](https://vimeo.com/126399049) video shows how this - now - [legacy](https://legacy.cut.social/) system worked:
+
+![](/uploads/2018/10/28/Screen Shot 2018-10-28 at 2.16.20 PM.png "https://vimeo.com/126399049")
 
 We received funding from [New School New](https://blogs.newschool.edu/news/2017/11/new-schools-new-challenge-winners-sweet-generation-and-drive-change-win-millions-in-manhattan-district-attorney-grants/#.W9Xv9hNKgdU) Challenge competition, and the [Association for Psychological Science (APS) Fund for Teaching and Public Understanding of Psychological Science](https://www.psychologicalscience.org/members/teaching/fund).
 
