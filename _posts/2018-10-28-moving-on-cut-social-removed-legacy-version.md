@@ -18,12 +18,12 @@ We were offered integration with [Amazon Mechanical Turk](https://www.mturk.com/
 
 Our subsequent goal was to offer descriptive previews of collected data and give some elementary statistics. This would complete the loop, making Cut on one-stop solution to design studies with economic games, collect data, and see results. These features significantly simplified designing and running studies, and allowed us to use Cut as a teaching tool, and resources for students to develop studies.
 
-[This](https://vimeo.com/126399049) video shows how this now [legacy](https://legacy.cut.social/) system worked:
+The following video shows how this now [legacy system](https://legacy.cut.social/) worked.
 
-![](/uploads/2018/10/28/Screen Shot 2018-10-28 at 2.16.20 PM.png "https://vimeo.com/126399049")
+<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/126399049" style="position:absolute;top:0;left:0;width:100%;height:100%; max-width: 720px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-We received funding from [New School New](https://blogs.newschool.edu/news/2017/11/new-schools-new-challenge-winners-sweet-generation-and-drive-change-win-millions-in-manhattan-district-attorney-grants/#.W9Xv9hNKgdU) Challenge competition, and the [Association for Psychological Science (APS) Fund for Teaching and Public Understanding of Psychological Science](https://www.psychologicalscience.org/members/teaching/fund).
+We received funding from New School[New Challenge](https://blogs.newschool.edu/news/2017/11/new-schools-new-challenge-winners-sweet-generation-and-drive-change-win-millions-in-manhattan-district-attorney-grants/#.W9Xv9hNKgdU) competition, and the [Association for Psychological Science (APS) Fund for Teaching and Public Understanding of Psychological Science](https://www.psychologicalscience.org/members/teaching/fund).
 
-We have since moved on to a different architecture based on [React](https://reactjs.org/), [json](https://www.json.org/), [Material UI](https://material-ui.com/) etc to meet new goals. We'll talk about the new goals and current state of the project in another post.
+We have since moved on to an more scalable architecture based on improved technologies to meet new goals. We'll talk about these new goals and current state of the project in another post.
 
 This has been a long journey, and still ongoing.
