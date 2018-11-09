@@ -18,7 +18,7 @@ We were offered integration with [Amazon Mechanical Turk](https://www.mturk.com/
 
 Our subsequent goal was to offer descriptive previews of collected data and give some elementary statistics. This would complete the loop, making Cut on one-stop solution to design studies with economic games, collect data, and see results. These features significantly simplified designing and running studies, and allowed us to use Cut as a teaching tool, and resources for students to develop studies.
 
-The following video shows how this now [legacy system](https://legacy.cut.social/) worked.
+The following video shows how this now [legacy system](https://legacy.cut.social/) worked:
 
 <div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/126399049" style="position:absolute;top:0;left:0;width:100%;height:100%; max-width: 720px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
