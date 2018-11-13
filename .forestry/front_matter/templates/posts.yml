@@ -9,5 +9,6 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/making-psychology-less-weird.md
 - _posts/2018-09-30-how-fasting-during-ramadan-affects-cognition-and-risk.md
 - _posts/2018-10-28-moving-on-cut-social-removed-legacy-version.md
