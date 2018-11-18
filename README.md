@@ -1,1 +1,1 @@
-http://blog.cut.social
+http://cut.social
