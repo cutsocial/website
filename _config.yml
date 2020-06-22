@@ -36,7 +36,7 @@ navs:
   - title: "Case Studies"
     url: "/projects"
   - title: "Contact"
-    url: "https://legacy.cut.social/contact"
+    url: "mailto:support@cut.social"
 
 # tag_page_layout: tag_page
 # tag_page_dir: tag
