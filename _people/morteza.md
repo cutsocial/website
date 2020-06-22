@@ -3,6 +3,7 @@ title: Morteza Ansarinia
 date: 2018-09-20 7:49:31 +0000
 role: co-founder
 email: 'ansarinia@me.com'
+twitter: 'mortynia'
 linkedin: ''
 ---
 
