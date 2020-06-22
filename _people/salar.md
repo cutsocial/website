@@ -3,6 +3,7 @@ title: Mostafa Salari Rad
 date: 2018-09-20 7:47:31 +0000
 role: co-founder
 email: 'mrad@princeton.edu'
+twitter: 'salarrad'
 linkedin: ''
 ---
 
