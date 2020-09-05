@@ -9,7 +9,7 @@ layout: page
 Balloon Analogue Risk Task
 
 <div>
-  <img src="{{ "/assets/img/demo/bart.png" | absolute_url }}">
+  <img src="{{ "/assets/demos/bart.png" | absolute_url }}">
 </div>
 
 [Live Demo](https://lens.cut.social/#/bart/en)
