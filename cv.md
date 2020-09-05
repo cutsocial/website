@@ -1,6 +1,6 @@
 ---
 title: "CV"
-layout: pdf
+layout: page
 permalink: /resume/
 ---
 
