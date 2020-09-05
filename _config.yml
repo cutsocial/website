@@ -9,7 +9,7 @@ minima:
 show_excerpts: true
 header_pages:
   - index.md
-  - projects.md
+  - demo.md
   - blog.md
   - about.md
 collections:
