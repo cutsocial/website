@@ -4,6 +4,7 @@ gem "jekyll"
 gem "minima"
 
 group :jekyll_plugins do
+  gem "jekyll-pdf-embed"
   gem "github-pages"
 end
 
