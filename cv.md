@@ -1,9 +1,7 @@
 ---
 title: "CV"
-layout: pdf
+layout: page
 permalink: /resume/
 ---
 
- {% pdf "/assets/MSR-CV-sept5-2020.pdf" no_link %}
-
-
+<iframe src="/assets/MSR-CV-sept5-2020.pdf" width="100%" height="100%"></iframe>
