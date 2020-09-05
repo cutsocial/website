@@ -15,3 +15,5 @@ header_pages:
   - cv.md
 collections:
   - members
+plugins:
+  - jekyll-pdf-embed
