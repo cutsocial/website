@@ -8,8 +8,6 @@ layout: page
 
 Balloon Analogue Risk Task
 
-<div>
-  <img src="{{ "/assets/demos/bart.png" | absolute_url }}">
+<div class="pdf-embed-container">
+  <iframe src="https://lens.cut.social/#/bart/en" frameborder="0" allowfullscreen=""></iframe>
 </div>
-
-[Live Demo](https://lens.cut.social/#/bart/en)
