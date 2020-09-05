@@ -1,15 +1,9 @@
 ---
-title: 'Case Study: Dictator Game offers to men and women counterparts in a sample of Iranian female high-school students'
+title: 'Case Study: Dictator Game'
+summary: 'Dictator Game offers to men and women counterparts in a sample of Iranian female high-school students.'
 layout: post
 author:
 project: true
-tags:
-  - Case Study
-  - Gender Equality
-  - Dictator Game
-  - Cut
-  - Project
-  - Generosity
 date: 2018-10-07 18:21:58 +0000
 
 ---

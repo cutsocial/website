@@ -5,12 +5,6 @@ summary: "In 2018 Ramadan was in summer, starting mid June and ending mid July (
 author: salar
 layout: post
 project: true
-tags:
-  - Case Study
-  - Ramadan
-  - Scarcity
-  - Cut
-  - Project
 ---
 In 2018 Ramadan was in summer, starting mid June and ending mid July (Islamic calendar is lunar). I was in the middle of moving back to Brooklyn from Princeton, and everything that could get complicated was getting complicated. We got the IRB approval and launched the study on the freshly developed version of *[Cut](https://cut.social)* (we call it version 7 - I think its somewhere around there). 
 
