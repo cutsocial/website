@@ -1,50 +1,16 @@
 title: Cut the Cake
-short_title: Cut the Cake
+short_title: cut.social
 description: "Cut The Cake: Design and Publish Social Experiments"
 baseurl: ""
 url: ""
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: page
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: project
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
+theme: minima
+minima:
+  skin: dark
+show_excerpts: true
+header_pages:
+  - index.md
+  - projects.md
+  - blog.md
+  - about.md
 collections:
-  projects:
-    output: true
-    permalink: "/projects/:path/"
-  people:
-    output: false
-  posts:
-    output: true
-navs:
-  - title: "Home"
-    url: "https://cut.social/"
-  - title: "About"
-    url: "/about"
-  - title: "Blog"
-    url: "/blog"
-  - title: "Case Studies"
-    url: "/projects"
-  - title: "Contact"
-    url: "mailto:support@cut.social"
-
-# tag_page_layout: tag_page
-# tag_page_dir: tag
-jekyll-archives:
-  enabled: all
-  layout: "archive"
-plugins:
-  - jekyll-feed
-  - jekyll-archives
-
-theme: jekyll-theme-slate
+  - members

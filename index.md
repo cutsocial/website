@@ -1,17 +1,6 @@
 ---
-title: Home
-layout: landing-page
+title:
+layout: home
 heading: Cut the Cake
-textline: what?
-show_footer: true
-banner_image: ''
-hero_button:
-  text: ''
-  href: ''
-services: []
-show_news: false
-
+list_title: ' '
 ---
-{% include blog_summary.html %}
-
-{% include partners.html %}

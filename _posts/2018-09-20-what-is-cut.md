@@ -5,15 +5,9 @@ summary: ""
 author: salar
 layout: post
 project: false
-tags:
-  - Case Study
-  - Ramadan
-  - Scarcity
-  - Cut
-  - Project
 ---
 
-We created Cut to make better use of the web-based technologies and people’s growing online presence in our research. We wanted to deal with three issues. 
+We created Cut to make better use of the web-based technologies and people’s growing online presence in our research. We wanted to deal with three issues.
 
 First, we were looking to go beyond simple multiple choice questions and scales in our studies. Psychologists have developed sophisticated methods to measure specific psychological phenomena. However, these tools are often not up to date; they are platform dependent, they use software patterns that are hard to maintain, their code is written in obsolete programming languages, their interface is reminiscent of Windows 95 and Netscape Navigator, and so forth. If we wanted to use these research instruments, we had to implement our own versions of them from scratch.
 
