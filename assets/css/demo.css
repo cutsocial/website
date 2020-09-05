@@ -10,9 +10,6 @@
 .demo-container iframe,
 .demo-container object,
 .demo-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  width: 400px;
+  height: 800px;
 }
