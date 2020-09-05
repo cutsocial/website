@@ -12,5 +12,6 @@ header_pages:
   - demo.md
   - blog.md
   - about.md
+  - cv.md
 collections:
   - members
