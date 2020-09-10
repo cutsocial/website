@@ -3,6 +3,7 @@ title: 'Case Study: Dictator Game'
 summary: 'Dictator Game offers to men and women counterparts in a sample of Iranian female high-school students.'
 layout: post
 author:
+comments: true
 project: true
 date: 2018-10-07 18:21:58 +0000
 
