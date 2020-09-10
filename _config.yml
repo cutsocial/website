@@ -18,4 +18,7 @@ collections:
 plugins:
   - jekyll-pdf-embed
 twitter_username: salarrad
+disqus:
+  shortname: <cut-social>
+
 
