@@ -29,10 +29,8 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  {%- if cut-social -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+{%- if cut-social -%}
+  {%- include disqus_comments.html -%}
+{%- endif -%}
