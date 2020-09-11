@@ -14,32 +14,3 @@ This task is invented Lejuez et al. (2002) to measure risk-taking behavior. A ba
 <div class="demo-container">
   <iframe src="https://lens.cut.social/#/bart/en" frameborder="0" allowfullscreen=""></iframe>
 </div>
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-<h2>Two Equal Columns</h2>
-
-<div class="row">
-<div class="demo-container">
-  <iframe src="https://lens.cut.social/#/bart/en" frameborder="0" allowfullscreen=""></iframe>
-</div>
-<div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
