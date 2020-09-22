@@ -1,6 +1,8 @@
 ---
-title: 
-layout: page
+title: BART
+layout: post
+date:
+
 ---
 
 ### Balloon Analogue Risk Task (BART)
