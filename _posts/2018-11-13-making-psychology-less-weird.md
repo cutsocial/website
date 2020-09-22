@@ -1,7 +1,6 @@
 ---
 title: Making psychology less WEIRD
 layout: post
-date: 2018-11-13 19:35:58 +0000
 
 ---
 There's a lot of talk on the need to diversify samples in social sciences, and especially in psychology. With a few exceptions though, most of us talk the talk and but rarely walk the walk. What's amazing is that almost all of us know this. This is no longer about just an elephant in the room; it's about ignoring an elephant that is staring into our eyes with a smirk on its face.
