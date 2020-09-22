@@ -20,5 +20,4 @@ plugins:
 twitter_username: salarrad
 disqus:
   shortname: <cut-social>
-permalink: /:title.html
 
