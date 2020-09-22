@@ -6,6 +6,8 @@ url: ""
 theme: minima
 minima:
   skin: dark
+  social_links:
+    twitter: salarrad
 show_excerpts: true
 header_pages:
   - index.md
@@ -17,7 +19,6 @@ collections:
   - members
 plugins:
   - jekyll-pdf-embed
-twitter_username: salarrad
 disqus:
   shortname: <cut-social>
 

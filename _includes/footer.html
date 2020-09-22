@@ -5,9 +5,13 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-         <p>{{ site.description | escape }}</p>
-         <p>{%- include social.html -%}</p>
+        <p>{{ site.description | escape }}</p>
+      </div>
+      <div class="social-links footer-col">
+        {%- include social.html -%}
       </div>
     </div>
+
   </div>
+
 </footer>
