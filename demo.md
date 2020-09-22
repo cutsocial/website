@@ -3,7 +3,6 @@ title: Demo
 layout: page
 ---
 
-### Demo: Ramadan
 We used Cut to study some of the psychological and behavioral outcomes of participating in Ramadan rituals. Risk-taking, choices in resource dilemmas, cognitive control, and trust are examples of the variables we were interested in. A demo of the research instrument is shown below. Also available [here](https://lens.cut.social/#/mad2020a/en):
 
 <div class="demo-container">
