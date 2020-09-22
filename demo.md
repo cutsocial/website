@@ -34,6 +34,10 @@ Cut allowed us to create a responsive instrument tailored to our research needs.
 
 The researcher can set the total number of trials, the number of Go (and NoGo) rounds, or the number of times the stimuli is shown on the left hand and right hand sides. It is also possible to set the duration of the time in which the stimuli is shown, the fixation period between the rounds, the duration of the feedback messages (if any), how many times the participants can time out (not respond) before the task starts over again. Even the shapes used for Go and NoGo stimuli can be customized. 
 
+<div class="demo-container">
+  <iframe src="https://lens.cut.social/#/gonogo" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
 A study intrument on Cut consists of a series of JSON elements similar to the one shown above. JSON is very popular data format that consists of keys and values. The response format is also a JSON file. This architecture makes it easier to add or extend new tasks. A developer can create their task in any language, then use a JSON element to interface and set the paramters, and store the data.   
 
 Cut also makes it easier to create and run studies in multiple languages. All of the parameters that the researchers sets before data collection have specific tags. These tags retreive content based on the language selected at the beginning of the study. For example, the GO-NoGo task shown above can be run in Farsi or English or Arabic. When a user selects English, the code below is retrieved to present the task to the subject: 
