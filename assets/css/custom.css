@@ -16,3 +16,8 @@ hr.divider:after {
   padding: 0 0.25em;
   background: white;
 }
+
+.social-links {
+  float: right;
+  color: red;
+}
