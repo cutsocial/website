@@ -1,6 +1,7 @@
 ---
 title: Balloon Analogue Risk Task (BART)
 layout: post
+date: 2020-09-22 18:21:58 +0000
 
 ---
 BART is a measure of risk-taking developed by Lejuez et al. ([2002](https://pubmed.ncbi.nlm.nih.gov/12075692/)). A ball or a balloon is shown to the subjects. Each time they tap on it, the ball gets pumped and becomes a little bigger. And with each pump, subjects receive a certain number of points. However, if the ball explodes, they lose their points in that round. They can choose to cash out their points and save them before the ball explodes. In the end, the acumulated points are converted to real-life values and paid to the subjects.
