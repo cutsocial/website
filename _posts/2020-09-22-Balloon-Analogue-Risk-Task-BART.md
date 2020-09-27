@@ -18,8 +18,8 @@ A major advantage of the task is that it doesn't not require probability calcula
 
 The code snippet needed to set the options of the task on Cut are shown next to it. The experimenter can set the number of rounds and the maximum number of pumps (i.e., in how many pumps the balloon has to explode).
 
-<div style="display:flex">
-	<div class="demo-container footer-col">
+<div class="demo-container">
+	<div class="footer-col">
 		<iframe src="https://lens.cut.social/#/bart/en" frameborder="0" allowfullscreen="">
 		</iframe>
 	</div>

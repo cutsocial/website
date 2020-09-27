@@ -1,7 +1,33 @@
 
+.demo-container {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-around;
+  justify-content: space-evenly;
+}
+
 .demo-container iframe,
 .demo-container object,
 .demo-container embed {
-  width: 400px;
-  height: 800px;
+  width: 100%;
+  height: 80vh;
+  order: 1;
+}
+
+.demo-container .highlight {
+  order: 2;
+}
+
+@media(min-width:600px) {
+  .demo-container {
+    flex-flow: row wrap;
+  }
+  .demo-container iframe {
+    order: 2;
+    flex: 1;
+  }
+  .demo-container .highlight {
+    order: 1;
+    flex: 1;
+  }
 }
