@@ -4,7 +4,7 @@ layout: page
 permalink: /resume/
 list_title: ' '
 ---
-[Download](/assets/MSR-CV-sept5-2020.pdf)
+[Download](/assets/MSR-CV-oct2-2020.pdf)
 
 
 <div class="pdf-embed-container">
