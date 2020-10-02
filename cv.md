@@ -7,5 +7,9 @@ permalink: /resume/
 
 
 <div class="pdf-embed-container">
-  <iframe src="{{ "/assets/MSR-CV-sept5-2020.pdf#view=FitH" | relative_url }}" frameborder="0" allowfullscreen=""></iframe>
-</div>
+  <div class="footer-col">
+      <iframe src="{{ "/assets/MSR-CV-sept5-2020.pdf#view=FitH" | relative_url }}" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+<div class="footer-col" markdown="1" >
+
+
