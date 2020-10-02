@@ -2,6 +2,7 @@
 title: "CV"
 layout: page
 permalink: /resume/
+list_title: ' '
 ---
 [Download](/assets/MSR-CV-sept5-2020.pdf)
 
