@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2018-09-25 08:37:54 +0000
-layout: test
+layout: page
 ---
 
 
