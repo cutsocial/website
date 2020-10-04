@@ -1,6 +1,6 @@
 ---
 title: "CV"
-layout: page
+layout: test
 permalink: /resume/
 list_title: ' '
 ---
