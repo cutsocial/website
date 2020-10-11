@@ -1,5 +1,6 @@
 ---
 title:
+layout: default
 heading: Cut the Cake
 list_title: ' '
 ---
@@ -9,25 +10,26 @@ list_title: ' '
   <iframe src="https://lens.cut.social/#/mad2020a/en" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
+<br /><br />
 <hr class="divider" />
 
 
   {% assign posts = site.posts %}
 
-  {%- if posts.size > 0 -%}
+  {%- if site.posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts limit:1 -%}
+      {%- for post in site.posts limit:10 -%}
         <li>
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title | escape }}
             </a>
           </h3>
-          {%- if site.show_excerpts -%}
+          {%- if site.show_excerpts and forloop.index == 1 -%}
             {{ post.excerpt }}
           {%- endif -%}
         </li>
