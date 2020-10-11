@@ -1,3 +1,15 @@
+.site-header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: white;
+}
+
+.page-content {
+  padding: 80px 0;
+  flex: 1;
+}
+
 hr.divider {
   overflow: visible; /* For IE */
   padding: 0;
