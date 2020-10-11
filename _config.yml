@@ -9,7 +9,6 @@ minima:
   social_links:
     twitter: salarrad
 show_excerpts: true
-paginate: 1
 header_pages:
   - index.md
   - demo.md
