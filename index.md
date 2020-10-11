@@ -9,7 +9,7 @@ list_title: ' '
   <iframe src="https://lens.cut.social/#/mad2020a/en" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-
+  {% assign posts = site.posts | first %}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
