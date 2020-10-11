@@ -18,7 +18,7 @@ list_title: ' '
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-        {%- if forloop.first -%}
+        {%- if forloop.first == true -%}
         <li>
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
