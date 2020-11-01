@@ -1,0 +1,41 @@
+
+<script>
+  function runCode(demo_id) {
+    var frame = document.getElementById(demo_id + '_iframe');
+    var code = document.getElementById(demo_id + '_code');
+    var btn = document.getElementById(demo_id + '_run_btn');
+    frame.style.display = "flex";
+    btn.style.display = "none";
+
+  }
+</script>
+
+
+<div id="demo001" markdown='1' style='position:relative' >
+
+
+<button id="demo001_run_btn" onclick="runCode('demo001')" style='position:absolute; top:5px; right: 5px; background: rgba(0,0,0,)'>&#9658; Run</button>
+</div>
+
+
+<div class="demo-container">
+  <div id='demo001_code' style='flex:1;' markdown='1'>
+```json
+"views": [
+  {
+    "id": "bart",
+    "type": "bart",
+    "reward": 10,
+    "maxPumps": 20,
+    "safePumps": 1,
+    "trials": 25
+  }
+]
+```
+  </div>
+
+  <iframe id="demo001_iframe" src="https://lens.cut.social/#/bart/en" frameborder="0" allowfullscreen="" style='display:none;flex:1'></iframe>
+</div>
+
+<br />
+<br />

@@ -4,6 +4,8 @@
   flex-flow: row wrap;
   align-content: space-around;
   justify-content: space-evenly;
+  display: -ms-flex;
+  display: -webkit-flex;
 }
 
 .demo-container iframe,
@@ -30,4 +32,8 @@
     order: 1;
     flex: 1;
   }
+}
+
+.demo-container pre {
+  /*white-space: pre-wrap;*/
 }
