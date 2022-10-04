@@ -7,7 +7,7 @@ theme: minima
 minima:
   skin: dark
   social_links:
-    twitter: salarrad
+    twitter: 
 show_excerpts: true
 header_pages:
   - index.md
