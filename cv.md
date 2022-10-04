@@ -8,5 +8,5 @@ list_title: ' '
 
 
 <div class="pdf-embed-container">
-  <iframe src="{{ "/assets/MSR-CV-oct2-2020.pdf#view=Fit" | relative_url }}" frameborder="0" allowfullscreen=""></iframe>
+  <iframe src="{{ "/assets/MSR-CV-9-26-2022.pdf#view=Fit" | relative_url }}" frameborder="0" allowfullscreen=""></iframe>
 </div>
