@@ -12,9 +12,7 @@ show_excerpts: true
 header_pages:
   - index.md
   - demo.md
-  - blog.md
   - about.md
-  - cv.md
 collections:
   - members
 plugins:
