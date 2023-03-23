@@ -21,8 +21,7 @@ I would love to hear your feedback. Lmk!
 
 
 \
-MS Rad
+[MS Rad](https://sites.google.com/view/msrad/home)
 
 New School for Social Research
 
-https://sites.google.com/view/msrad/home
