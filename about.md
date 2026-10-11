@@ -23,7 +23,7 @@ Both aims still guide the work. A third has been added since: lining up what peo
 
 ## People
 
-- [Mostafa Salari Rad](https://sites.google.com/view/msrad/home), The New School for Social Research: idea and design of Cut, Lens and Jamasp
+- [Mostafa Salari Rad](https://salarirad.github.io/), The New School for Social Research: idea and design of Cut, Lens and Jamasp
 - Morteza Ansarinia: development of Cut
 - [Arman Radmanesh](https://armanradmanesh.com): Lens and Jamasp
 
