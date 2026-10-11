@@ -42,4 +42,10 @@ Each link opens a working demo. Change `/en` at the end to `/fa` or `/ar` for Pe
 - [Live two-player ultimatum game](https://lens.cut.social/#/demo-multiplayer/en): open it in two windows to play yourself, or wait 20 seconds for a computer partner
 - [Every Lens 2 task in one study](https://lens.cut.social/#/demo-lens2/en)
 
+The original Lens designs (release `v1.0`) still run every earlier study unchanged, and some tasks exist only there:
+[2-alternative forced choice](https://lens.cut.social/#/gonogo/en),
+[task switching](https://lens.cut.social/#/taskswitch/en),
+[simplified task switching](https://lens.cut.social/#/simplified_taskswitch/en),
+and [every classic task in one study](https://lens.cut.social/#/demo-comprehensive/en).
+
 More on the [demos page]({{ "/demo.html" | relative_url }}).
