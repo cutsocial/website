@@ -4,9 +4,9 @@ layout: test
 permalink: /resume/
 list_title: ' '
 ---
-[Download](/assets/MSR-CV-oct2-2020.pdf)
+[Download](/assets/MSR-CV-2026.pdf)
 
 
 <div class="pdf-embed-container">
-  <iframe src="{{ "/assets/MSR-CV-9-26-2022.pdf#view=Fit" | relative_url }}" frameborder="0" allowfullscreen=""></iframe>
+  <iframe src="{{ "/assets/MSR-CV-2026.pdf#view=Fit" | relative_url }}" frameborder="0" allowfullscreen=""></iframe>
 </div>
