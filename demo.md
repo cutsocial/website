@@ -61,6 +61,12 @@ Stimulus onset and response times are recorded with the browser's high-resolutio
   <iframe src="https://lens.cut.social/#/demo-ultimatum/en" loading="lazy" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
+**Dice allocation.** Each round there are two dice, a blue one and an orange one. Participants decide privately which is theirs and which is the other person's, roll both, then give each die to a person and get the points on theirs. The private choice isn't recorded, so self-serving choices show up only over many rounds: honest players keep the higher die about half the time. Based on a Cut prototype from 2018. [Open in a new tab](https://lens.cut.social/#/demo-dice/en)
+
+<div class="demo-container">
+  <iframe src="https://lens.cut.social/#/demo-dice/en" loading="lazy" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
 **Live two-player ultimatum game.** Participants are paired as they arrive, first come, first served. If no one else arrives within the time the study sets, a computer partner plays instead, following one of Cut's original strategies. A debrief after the game says which it was. To play both sides yourself, [open the game](https://lens.cut.social/#/demo-multiplayer/en) in two windows; to meet the computer partner, open it once and wait about 20 seconds.
 
 ## Old designs

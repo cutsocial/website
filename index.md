@@ -25,7 +25,7 @@ layout: home
   <div class="tool-text">
     <h2><a href="https://lens.cut.social/#/builder">Lens</a></h2>
     <p class="tool-status">In use since 2018. Version 2.0 came out in October 2026.</p>
-    <p>A study is a list of pages: survey questions, Stroop, Go/No-Go, N-back, the balloon risk task, dictator and ultimatum games. Lens shows them in order, on a phone or a computer, in English, Persian or Arabic, and saves each participant's answers with the settings that produced them.</p>
+    <p>A study is a list of pages: survey questions, Stroop, Go/No-Go, N-back, the balloon risk task, dictator and ultimatum games, and a dice allocation task. Lens shows them in order, on a phone or a computer, in English, Persian or Arabic, and saves each participant's answers with the settings that produced them.</p>
     <p>New in 2.0: a study builder that shows each page as participants will see it, and two-player games where participants are paired as they arrive, with a computer partner if no one else does.</p>
     <p class="tool-links"><a href="https://lens.cut.social/#/builder">Open the study builder</a><a href="{{ "/demo.html" | relative_url }}">See every task</a><a href="https://github.com/cutsocial/lens">Code on GitHub</a></p>
   </div>
@@ -73,6 +73,7 @@ layout: home
     <li><a href="https://lens.cut.social/#/demo-bart/en">Balloon risk task (BART)</a><span>Pump for points before the balloon pops</span></li>
     <li><a href="https://lens.cut.social/#/demo-dictator/en">Dictator game</a><span>Split tokens with another person</span></li>
     <li><a href="https://lens.cut.social/#/demo-ultimatum/en">Ultimatum game</a><span>Propose a split they can accept or reject</span></li>
+    <li><a href="https://lens.cut.social/#/demo-dice/en">Dice allocation</a><span>Decide which die is yours, roll, then hand them out</span></li>
     <li><a href="https://lens.cut.social/#/demo-multiplayer/en">Live two-player game</a><span>Open it in two windows, or wait 20 seconds for a computer partner</span></li>
     <li><a href="https://lens.cut.social/#/demo-lens2/en">Everything in one study</a><span>All the Lens 2 tasks and survey pages</span></li>
   </ul>
