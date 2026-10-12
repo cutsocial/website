@@ -23,7 +23,7 @@ Both aims still guide the work. A third has been added since: lining up what peo
 
 ## Cut in a classroom
 
-In 2018, a group of students at a [NODET](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) high school in Iran asked to use Cut for a school project. They wanted to know how people play a dictator game with a man versus a woman. They designed the study themselves, sketched its screens, and wrote six profiles, three men and three women, each with a name, an age and a hobby. We built the experiment together; they collected the data, presented it as a poster at a local Brain Bee competition, and won a prize.
+In 2018, a group of students at a [NODET](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) high school in Iran asked to use Cut for a school project. They wanted to know how people play a dictator game with a man versus a woman. They designed the study themselves, sketched its screens, and wrote six profiles, three men and three women, each with a name, an age and a hobby. Morteza Ansarinia and I built the experiment with them; they collected the data, presented it as a poster at a local Brain Bee competition, and won a prize.
 
 <div class="about-figures">
   <figure>
