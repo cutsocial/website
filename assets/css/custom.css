@@ -40,3 +40,6 @@ code, pre {
   .about-figures { grid-template-columns: 1fr; }
   .about-figures figure:last-child { max-width: 220px; }
 }
+
+/* Images keep their proportions when the page shrinks them */
+img[height] { height: auto; }
