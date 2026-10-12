@@ -61,6 +61,37 @@ layout: home
   </div>
 </section>
 
+<section class="cases">
+  <h2>Case studies</h2>
+  <p>Studies run with these tools.</p>
+
+  <details class="case">
+    <summary><span class="case-title">Students design a dictator game</span><span class="case-meta">Cut, 2018. A high-school project that won a prize.</span></summary>
+    <div class="case-body">
+      <p>A group of students at a <a href="https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents">NODET</a> high school in Iran asked to use Cut for a school project. They wanted to know how people play a dictator game with a man versus a woman. They designed the study themselves, sketched its screens, and wrote six profiles, three men and three women, each with a name, an age and a hobby. Mostafa Salari Rad and Morteza Ansarinia built the experiment with them; they collected the data, presented it as a poster at a local Brain Bee competition, and won a prize.</p>
+      <div class="case-figures">
+        <figure>
+          <img src="{{ "/assets/img/about/students-illustration.webp" | relative_url }}" width="1400" height="788" loading="lazy" alt="An illustration of six students in navy uniforms and hijabs around a table with a tangle of glowing lights.">
+          <figcaption>The team, redrawn as an illustration.</figcaption>
+        </figure>
+        <figure>
+          <img src="{{ "/assets/img/about/students-sketch.jpg" | relative_url }}" width="534" height="800" loading="lazy" alt="A hand-drawn sketch of the study's screens, with notes in Persian.">
+          <figcaption>Their sketch of the study's screens.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </details>
+
+  <details class="case">
+    <summary><span class="case-title">Fasting and cognitive control</span><span class="case-meta">Lens, <cite>Personality and Social Psychology Bulletin</cite>, 2023</span></summary>
+    <div class="case-body">
+      <p>Does going without food make it harder to stay focused when food is on your mind? 190 people who fasted during Ramadan took a cognitive-control task, unrelated to food, in Lens once during Ramadan and once after it, alongside a group who did not fast. When food was made salient, fasters were slower and less accurate during Ramadan than after it, while the comparison group performed the same both times. During Ramadan, performance also tracked how recently fasters had last eaten.</p>
+      <p class="case-cite">Rad, M. S., Ansarinia, M., &amp; Shafir, E. (2023). Temporary self-deprivation can impair cognitive control: Evidence from the Ramadan fast. <cite>Personality and Social Psychology Bulletin</cite>, 49(3), 415–428. <a href="https://doi.org/10.1177/01461672211070385">doi:10.1177/01461672211070385</a></p>
+    </div>
+  </details>
+
+</section>
+
 <section class="try">
   <h2>Try it</h2>
   <p>Each link opens a working demo. Change <code>/en</code> at the end of the address to <code>/fa</code> or <code>/ar</code> for Persian or Arabic.</p>
