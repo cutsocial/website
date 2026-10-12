@@ -33,6 +33,7 @@ Development was funded by The New School and the Association for Psychological S
 
 Research using these tools:
 
+- Rad, M. S. (2025). Self-deprivation and cognition in Ramadan: Could fasting practice improve inhibitory control? *Religion, Brain & Behavior*, 1–26. [doi:10.1080/2153599X.2025.2487277](https://doi.org/10.1080/2153599X.2025.2487277)
 - Rad, M. S., Ansarinia, M., & Shafir, E. (2023). Temporary self-deprivation can impair cognitive control: Evidence from the Ramadan fast. *Personality and Social Psychology Bulletin*, 49(3), 415–428. [doi:10.1177/01461672211070385](https://doi.org/10.1177/01461672211070385)
 
 ## Using Lens
