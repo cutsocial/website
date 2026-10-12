@@ -255,7 +255,6 @@ body:has(.home-page) .site-footer .wrapper {
   width: var(--wide);
   margin-inline: calc((100% - var(--wide)) / 2);
   padding: 80px 0 24px;
-  border-bottom: 1px solid var(--line);
 }
 .home-page .cases h2 {
   font-size: 34px;
