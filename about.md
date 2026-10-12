@@ -21,6 +21,21 @@ Both aims still guide the work. A third has been added since: lining up what peo
 
 **Jamasp, 2021–present.** Jamasp recruits people who already own a Fitbit, through Prolific, and retrieves their wearable data automatically after they consent and link their device. A pilot ran with 41 participants over 65 days in 2025; its [code and aggregate data](https://github.com/cutsocial/jamasp-public) are public.
 
+## Cut in a classroom
+
+In 2018, a group of students at a [NODET](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents) high school in Iran asked to use Cut for a school project. They wanted to know how people play a dictator game with a man versus a woman. They designed the study themselves, sketched its screens, and wrote six profiles, three men and three women, each with a name, an age and a hobby. Morteza Ansarinia and I built the experiment with them; they collected the data, presented it as a poster at a local Brain Bee competition, and won a prize.
+
+<div class="about-figures">
+  <figure>
+    <img src="{{ "/assets/img/about/students-illustration.webp" | relative_url }}" width="1400" height="788" alt="An illustration of six students in navy uniforms and hijabs around a table with a tangle of glowing lights.">
+    <figcaption>The team, redrawn as an illustration.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ "/assets/img/about/students-sketch.jpg" | relative_url }}" width="534" height="800" alt="A hand-drawn sketch of the study's screens, with notes in Persian.">
+    <figcaption>Their sketch of the study's screens.</figcaption>
+  </figure>
+</div>
+
 ## People
 
 - [Mostafa Salari Rad](https://salarirad.github.io/), The New School for Social Research: idea and design of Cut, Lens and Jamasp

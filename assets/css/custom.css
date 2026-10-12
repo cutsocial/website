@@ -50,3 +50,19 @@
 .project-links {
   font-weight: 600;
 }
+
+/* About page: the students' illustration and sketch side by side */
+.about-figures {
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 2fr);
+  gap: 20px;
+  align-items: start;
+  margin: 8px 0 30px;
+}
+.about-figures figure { margin: 0; }
+.about-figures img { display: block; width: 100%; height: auto; border-radius: 8px; }
+.about-figures figcaption { margin-top: 8px; font-size: 14px; color: #5d6470; }
+@media (max-width: 600px) {
+  .about-figures { grid-template-columns: 1fr; }
+  .about-figures figure:last-child { max-width: 220px; }
+}
