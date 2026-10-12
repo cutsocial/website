@@ -37,12 +37,12 @@ layout: home
 Each link opens a working demo. Change `/en` at the end to `/fa` or `/ar` for Persian or Arabic.
 
 - [Survey pages](https://lens.cut.social/#/demo-survey/en)
-- [Stroop](https://lens.cut.social/#/demo-stroop/en), [Go/No-Go](https://lens.cut.social/#/demo-gonogo/en), [N-back](https://lens.cut.social/#/demo-nback/en), [BART](https://lens.cut.social/#/demo-bart/en)
+- [Stroop](https://lens.cut.social/#/demo-stroop/en), [Go/No-Go](https://lens.cut.social/#/demo-gonogo/en), [two-choice task](https://lens.cut.social/#/demo-twochoice/en), [N-back](https://lens.cut.social/#/demo-nback/en), [BART](https://lens.cut.social/#/demo-bart/en)
 - [Dictator game](https://lens.cut.social/#/demo-dictator/en), [ultimatum game](https://lens.cut.social/#/demo-ultimatum/en)
 - [Live two-player ultimatum game](https://lens.cut.social/#/demo-multiplayer/en): open it in two windows to play yourself, or wait 20 seconds for a computer partner
 - [Every Lens 2 task in one study](https://lens.cut.social/#/demo-lens2/en)
 
-The original Lens designs (release `v1.0`) still run every earlier study unchanged, and some tasks exist only there:
+The original Lens designs (release `v1.0`) still run every earlier study unchanged:
 [2-alternative forced choice](https://lens.cut.social/#/gonogo/en),
 [task switching](https://lens.cut.social/#/taskswitch/en),
 [simplified task switching](https://lens.cut.social/#/simplified_taskswitch/en),
