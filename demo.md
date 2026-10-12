@@ -29,6 +29,12 @@ Stimulus onset and response times are recorded with the browser's high-resolutio
   <iframe src="https://lens.cut.social/#/demo-gonogo/en" loading="lazy" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
+**Two-choice task** (2-alternative forced choice). A star appears on the left or right: blue means answer on the same side, yellow the opposite side. [Open in a new tab](https://lens.cut.social/#/demo-twochoice/en)
+
+<div class="demo-container">
+  <iframe src="https://lens.cut.social/#/demo-twochoice/en" loading="lazy" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
 **N-back.** [Open in a new tab](https://lens.cut.social/#/demo-nback/en)
 
 <div class="demo-container">
