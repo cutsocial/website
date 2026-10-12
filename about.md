@@ -31,9 +31,10 @@ Both aims still guide the work. A third has been added since: lining up what peo
 
 Development was funded by The New School and the Association for Psychological Science (APS).
 
-Research using these tools:
+Research using these tools (summaries in the [case studies]({{ "/" | relative_url }}#case-studies) on the home page):
 
-- Rad, M. S. (2025). Self-deprivation and cognition in Ramadan: Could fasting practice improve inhibitory control? *Religion, Brain & Behavior*, 1–26. [doi:10.1080/2153599X.2025.2487277](https://doi.org/10.1080/2153599X.2025.2487277)
+- Rad, M. S. (2025). Self-deprivation and cognition in Ramadan: Could fasting practice improve inhibitory control? *Religion, Brain & Behavior*, 234–259. [doi:10.1080/2153599X.2025.2487277](https://doi.org/10.1080/2153599X.2025.2487277)
+- Rad, M. S. (2023). From self-deprivation to cooperation: How Ramadan fasting influences risk-aversion and decisions in resource dilemmas. *Current Research in Ecological and Social Psychology*, 5, 100152. [doi:10.1016/j.cresp.2023.100152](https://doi.org/10.1016/j.cresp.2023.100152)
 - Rad, M. S., Ansarinia, M., & Shafir, E. (2023). Temporary self-deprivation can impair cognitive control: Evidence from the Ramadan fast. *Personality and Social Psychology Bulletin*, 49(3), 415–428. [doi:10.1177/01461672211070385](https://doi.org/10.1177/01461672211070385)
 
 ## Using Lens

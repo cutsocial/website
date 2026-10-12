@@ -61,7 +61,7 @@ layout: home
   </div>
 </section>
 
-<section class="cases">
+<section class="cases" id="case-studies">
   <h2>Case studies</h2>
   <p>Studies run with these tools.</p>
 
@@ -83,10 +83,34 @@ layout: home
   </details>
 
   <details class="case">
+    <summary><span class="case-title">Fasting, risk and shared resources</span><span class="case-meta">Lens, <cite>Current Research in Ecological and Social Psychology</cite>, 2023</span></summary>
+    <div class="case-body">
+      <p>Why do communities fast together? This paper tested whether collective fasting makes people more cautious and, through that, more restrained with shared resources. In a study run in Lens (the paper calls it Cut), 283 Muslims from the UK, the US and elsewhere took the balloon risk task and six resource dilemmas, during Ramadan 2020 and again after it. In each dilemma, five people privately asked for points from a shared pool of uncertain size, and no one got anything if the requests added up to more than the pool held. During Ramadan, participants cashed in their balloons sooner and asked for fewer points (about 148 versus 179). Those whose risk-taking dropped more also asked for less, while trust and social preferences did not change.</p>
+      <p class="case-cite">Rad, M. S. (2023). From self-deprivation to cooperation: How Ramadan fasting influences risk-aversion and decisions in resource dilemmas. <cite>Current Research in Ecological and Social Psychology</cite>, 5, 100152. <a href="https://doi.org/10.1016/j.cresp.2023.100152">doi:10.1016/j.cresp.2023.100152</a></p>
+    </div>
+  </details>
+
+  <details class="case">
     <summary><span class="case-title">Fasting and cognitive control</span><span class="case-meta">Lens, <cite>Personality and Social Psychology Bulletin</cite>, 2023</span></summary>
     <div class="case-body">
       <p>Does going without food make it harder to stay focused when food is on your mind? 190 people who fasted during Ramadan took a cognitive-control task, unrelated to food, in Lens once during Ramadan and once after it, alongside a group who did not fast. When food was made salient, fasters were slower and less accurate during Ramadan than after it, while the comparison group performed the same both times. During Ramadan, performance also tracked how recently fasters had last eaten.</p>
       <p class="case-cite">Rad, M. S., Ansarinia, M., &amp; Shafir, E. (2023). Temporary self-deprivation can impair cognitive control: Evidence from the Ramadan fast. <cite>Personality and Social Psychology Bulletin</cite>, 49(3), 415–428. <a href="https://doi.org/10.1177/01461672211070385">doi:10.1177/01461672211070385</a></p>
+    </div>
+  </details>
+
+  <details class="case">
+    <summary><span class="case-title">Can fasting train self-control?</span><span class="case-meta">Lens, <cite>Religion, Brain &amp; Behavior</cite>, 2025</span></summary>
+    <div class="case-body">
+      <p>If self-control improves with practice, a month of holding back from food and drink might leave people better at inhibiting responses. 173 people who fasted during Ramadan and 222 who did not took inhibitory-control tasks in Lens before, during and after Ramadan. Both groups got faster and more accurate over time, and the fasters improved more. The gain in accuracy appeared only among fasters who rated their own self-control as high, which points to motivation as part of what makes practice work.</p>
+      <p class="case-cite">Rad, M. S. (2025). Self-deprivation and cognition in Ramadan: Could fasting practice improve inhibitory control? <cite>Religion, Brain &amp; Behavior</cite>, 234–259. <a href="https://doi.org/10.1080/2153599X.2025.2487277">doi:10.1080/2153599X.2025.2487277</a></p>
+    </div>
+  </details>
+
+  <details class="case">
+    <summary><span class="case-title">Private rituals and generosity</span><span class="case-meta">Lens, preprint</span></summary>
+    <div class="case-body">
+      <p>Visible sacrifice can signal commitment to others, but fasting is mostly private. Does it still make people more generous? Three studies from 2023 to 2025 followed people who fasted during Ramadan and non-Muslim comparison groups through the month, with incentivized giving tasks in Lens. Fasting by itself was not linked to more generosity. Fasters gave more to anonymous recipients only when questions at the end of the survey prompted them to reflect on their fast and on others who fast, and when they knew who the recipient was, they favored members of their own religious group.</p>
+      <p class="case-cite">Rad, M. S. Private rituals, public in mind, and the shifting scope of religious prosociality: Evidence from Ramadan. Preprint. <a href="https://drive.google.com/file/d/1GqmUSwEQmfU14FwVYw8axXj2UMcpRIgB/view">Read the preprint</a></p>
     </div>
   </details>
 
