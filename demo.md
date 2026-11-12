@@ -152,18 +152,18 @@ layout: test
   <p>Participants are paired as they arrive, first come, first served. If no one else arrives within the time the study sets, a computer partner plays instead, following one of Cut's original strategies. A debrief after the game says which it was.</p>
   <h3 class="demo-steps-title">Watch two people get matched</h3>
   <ol class="demo-steps">
-    <li><a href="https://lens.cut.social/#/demo-multiplayer/en" target="_blank" rel="noopener">Open the game</a> in this browser.</li>
-    <li>Copy the link below and open it in a private (incognito) window, another browser or your phone. Each one counts as a separate participant.</li>
-    <li>Tap Start in both. They find each other within seconds, and you play both sides.</li>
+    <li>Tap Start in the game below.</li>
+    <li>Copy the link and open it in a private (incognito) window, another browser or your phone. Each one counts as a separate participant.</li>
+    <li>Tap Start there too. The two find each other within seconds, and you play both sides.</li>
   </ol>
   <div class="demo-copy">
     <input type="text" readonly value="https://lens.cut.social/#/demo-multiplayer/en" aria-label="Link to the live game" onfocus="this.select()">
     <button type="button" class="demo-copy-button" data-copy="https://lens.cut.social/#/demo-multiplayer/en">Copy link</button>
   </div>
-  <p class="demo-note">To meet the computer partner instead, open the game once and wait about 20 seconds.</p>
-  <figure class="demo-still">
-    <img src="{{ '/assets/img/demo/multiplayer.webp' | relative_url }}" alt="The live ultimatum game on a phone: the participant proposes a split of 10 tokens, 5 for the other person and 5 for themselves." width="520" height="1008" loading="lazy">
-  </figure>
+  <p class="demo-note">To meet the computer partner instead, tap Start below and wait about 20 seconds.</p>
+  <div class="demo-container">
+    <iframe src="https://lens.cut.social/#/demo-multiplayer/en" title="Live two-player ultimatum game" loading="lazy" frameborder="0" allowfullscreen=""></iframe>
+  </div>
 </section>
 
 <section class="demo-panel" id="old-designs">
