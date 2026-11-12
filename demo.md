@@ -263,6 +263,29 @@ layout: test
   });
   window.addEventListener('hashchange', function () { show(location.hash.slice(1)); });
 
+  // Restart button in the corner of each embedded demo. Lens keeps no
+  // progress between loads, so a fresh frame starts the task over.
+  var icon = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 1 1-2.34-5.66"/><path d="M20 4v5h-5"/></svg>';
+  Array.prototype.forEach.call(root.querySelectorAll('.demo-container'), function (box) {
+    if (!box.querySelector('iframe')) return;
+    var b = document.createElement('button');
+    b.type = 'button';
+    b.className = 'demo-restart';
+    b.title = 'Restart this demo';
+    b.setAttribute('aria-label', 'Restart this demo');
+    b.innerHTML = icon;
+    b.addEventListener('click', function () {
+      var old = box.querySelector('iframe');
+      var fresh = old.cloneNode(false); // a new frame loads the study from the start
+      fresh.removeAttribute('loading');
+      old.parentNode.replaceChild(fresh, old);
+      b.classList.remove('is-spinning');
+      void b.offsetWidth;
+      b.classList.add('is-spinning');
+    });
+    box.appendChild(b);
+  });
+
   // "Copy link" buttons
   Array.prototype.forEach.call(root.querySelectorAll('[data-copy]'), function (b) {
     b.addEventListener('click', function () {

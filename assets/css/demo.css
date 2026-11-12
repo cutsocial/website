@@ -139,6 +139,7 @@
 }
 
 .demo-container {
+  position: relative;
   border-radius: 14px;
   overflow: hidden;
   background: #15171b;
@@ -150,6 +151,35 @@
   height: min(80vh, 860px);
   min-height: 560px;
   border: 0;
+}
+
+/* Restart button: top right corner of the demo */
+.demo-container { overflow: visible; }
+.demo-container iframe { border-radius: 14px; }
+.demo-restart {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 50%;
+  background: rgba(40, 44, 52, 0.85);
+  color: #d8dde5;
+  cursor: pointer;
+  transition: background-color 0.12s ease, color 0.12s ease;
+}
+.demo-restart:hover { background: #3a404b; color: #fff; }
+.demo-restart:focus-visible { outline: 2px solid #5aa9ff; outline-offset: 2px; }
+.demo-restart.is-spinning svg { animation: demo-restart-spin 0.5s ease; }
+@keyframes demo-restart-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) {
+  .demo-restart.is-spinning svg { animation: none; }
 }
 
 /* ---- Narrow screens: the menu becomes a row of thumbnails above the demo ---- */
@@ -186,6 +216,10 @@
   .demo-nav-item strong { font-size: 12px; font-weight: 700; }
   .demo-nav-item small { display: none; }
   .demo-container iframe { height: 75vh; min-height: 480px; }
+  /* The task fills the frame here, so the button gets its own strip at the top */
+  .demo-container:has(.demo-restart) { padding-top: 44px; }
+  .demo-container iframe { border-radius: 0 0 14px 14px; }
+  .demo-restart { top: 4px; right: 6px; }
 }
 
 /* ---- Live game: steps to get matched with yourself ---- */
