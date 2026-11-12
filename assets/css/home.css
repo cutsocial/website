@@ -243,12 +243,6 @@
   .home-page .button { flex: 1 1 100%; justify-content: center; }
 }
 
-/* Line the header up with the wider home page */
-body:has(.home-page) .site-header .wrapper,
-body:has(.home-page) .site-footer .wrapper {
-  max-width: 1080px;
-}
-
 /* ---- Case studies: drawers that open downward ---- */
 .home-page .cases {
   scroll-margin-top: 72px;

@@ -5,6 +5,13 @@
   background: #ffffffee;
 }
 
+/* Header and footer are the same width on every page (the home page's width),
+   so the menu doesn't move when you switch pages */
+.site-header .wrapper,
+.site-footer .wrapper {
+  max-width: 1080px;
+}
+
 .page-content {
   padding: 80px 0;
   flex: 1;

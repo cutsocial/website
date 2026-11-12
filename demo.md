@@ -150,8 +150,17 @@ layout: test
 <section class="demo-panel" id="multiplayer">
   <h2>Live two-player ultimatum game</h2>
   <p>Participants are paired as they arrive, first come, first served. If no one else arrives within the time the study sets, a computer partner plays instead, following one of Cut's original strategies. A debrief after the game says which it was.</p>
-  <p>To play both sides yourself, open the game in two windows; to meet the computer partner, open it once and wait about 20 seconds.</p>
-  <p class="demo-actions"><a class="demo-open" href="https://lens.cut.social/#/demo-multiplayer/en" target="_blank" rel="noopener">Open the game</a></p>
+  <h3 class="demo-steps-title">Watch two people get matched</h3>
+  <ol class="demo-steps">
+    <li><a href="https://lens.cut.social/#/demo-multiplayer/en" target="_blank" rel="noopener">Open the game</a> in this browser.</li>
+    <li>Copy the link below and open it in a private (incognito) window, another browser or your phone. Each one counts as a separate participant.</li>
+    <li>Tap Start in both. They find each other within seconds, and you play both sides.</li>
+  </ol>
+  <div class="demo-copy">
+    <input type="text" readonly value="https://lens.cut.social/#/demo-multiplayer/en" aria-label="Link to the live game" onfocus="this.select()">
+    <button type="button" class="demo-copy-button" data-copy="https://lens.cut.social/#/demo-multiplayer/en">Copy link</button>
+  </div>
+  <p class="demo-note">To meet the computer partner instead, open the game once and wait about 20 seconds.</p>
   <figure class="demo-still">
     <img src="{{ '/assets/img/demo/multiplayer.webp' | relative_url }}" alt="The live ultimatum game on a phone: the participant proposes a split of 10 tokens, 5 for the other person and 5 for themselves." width="520" height="1008" loading="lazy">
   </figure>
@@ -253,6 +262,22 @@ layout: test
     });
   });
   window.addEventListener('hashchange', function () { show(location.hash.slice(1)); });
+
+  // "Copy link" buttons
+  Array.prototype.forEach.call(root.querySelectorAll('[data-copy]'), function (b) {
+    b.addEventListener('click', function () {
+      var text = b.getAttribute('data-copy');
+      var done = function () {
+        b.textContent = 'Copied';
+        setTimeout(function () { b.textContent = 'Copy link'; }, 2000);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(done, function () { b.previousElementSibling.select(); });
+      } else {
+        b.previousElementSibling.select();
+      }
+    });
+  });
   show(location.hash.slice(1));
 })();
 </script>
