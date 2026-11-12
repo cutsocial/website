@@ -1,8 +1,8 @@
 /* ---- Demos page: a menu of tasks on the left, the chosen demo on the right ---- */
 
-/* This page needs more room than minima's 800px column */
+/* This page needs more room than minima's 800px column; it lines up with the header */
 .wrapper:has(.demo-browser) {
-  max-width: 1180px;
+  max-width: 1080px;
 }
 
 .demo-intro {
@@ -197,4 +197,50 @@
   .demo-nav-item strong { font-size: 12px; font-weight: 700; }
   .demo-nav-item small { display: none; }
   .demo-container iframe { height: 75vh; min-height: 480px; }
+}
+
+/* ---- Live game: steps to get matched with yourself ---- */
+.demo-steps-title {
+  margin: 20px 0 8px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.demo-steps {
+  max-width: 640px;
+  margin: 0 0 16px 22px;
+}
+.demo-steps li { margin-bottom: 6px; }
+.demo-copy {
+  display: flex;
+  gap: 8px;
+  max-width: 520px;
+  margin-bottom: 12px;
+}
+.demo-copy input {
+  flex: 1;
+  min-width: 0;
+  padding: 8px 12px;
+  border: 1px solid #d5dae1;
+  border-radius: 10px;
+  background: #f7f8fa;
+  color: #1c1f24;
+  font-family: "Atkinson Hyperlegible Mono", ui-monospace, monospace;
+  font-size: 14px;
+}
+.demo-copy-button {
+  flex: none;
+  padding: 8px 16px;
+  border: 0;
+  border-radius: 10px;
+  background: #5aa9ff;
+  color: #0b1a2b;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.demo-copy-button:hover { background: #4a9af2; }
+.demo-note {
+  font-size: 15px;
+  color: #5d6470;
 }
